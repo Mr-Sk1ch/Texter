@@ -1,1 +1,2 @@
-# Texter is just text editor
+# Texter
+## is just text editor
